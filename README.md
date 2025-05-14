@@ -90,5 +90,25 @@ For collaboration, feedback, or inquiry regarding this system:
 
 📧 Email: MetaCrux00@protonmail.com
 
+## 🧩 Keywords · 关键词导航
+
+meta-cognition, cognitive sovereignty, structural language, interface theory,  
+expression system, perception permission, questioning framework, naming as programming,  
+definition control, systemic pressure, self-continuity, awareness architecture,  
+semantic emancipation, linguistic interface, deprogramming technique,  
+GPT-ready cognition modules, Obsidian vault, knowledge infrastructure,  
+noncommercial cognition toolset, modular thinking system, meta-OS
+
+---
+
+中文关键词（结构性标签）：
+
+元认知、认知主权、表达接口、语言结构系统、接口意识  
+语言脱钩术、提问即重构、命名即召唤、定义即统治  
+系统压强、锚地机制、自我连续性、权限架构、认知反编程  
+语义唤起、结构性觉醒、去平台化语言系统、表达权重构  
+文明接口、概念封装术、认知操作工具箱、结构化写作
+
+
 
 ---
