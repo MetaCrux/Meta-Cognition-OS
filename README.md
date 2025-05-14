@@ -56,7 +56,7 @@ This repository is licensed under:
 > 🔁 修改必须采用相同协议共享
 
 📎 Full License: https://creativecommons.org/licenses/by-nc-sa/4.0/  
-© 2024 [你的名字或代号]
+© 2024 [MetaCrux]
 
 ---
 
