@@ -14,17 +14,19 @@ It is not a book. It is not a belief system. It is an interface map for rebuildi
 > ❗️这不是终稿，而是一个持续演进的操作系统起点。
 
 ---
-docs/
-├── P-00_Cognition-is-Sovereignty.md
-├── S-01_Expression-as-Interface.md
-├── S-02_Information-Density.md
-├── S-03_Questioning-as-Reconstruction.md
-├── S-04_Naming-as-Reality-Generation.md
-├── S-05_Definition-as-Power.md
-├── S-06_Systemic-Pressure-as-Motivation.md
-├── S-07_Anchoring-as-Self-Continuity.md
-├── S-08_Interface-as-Experience.md
-├── S-09_Permission-as-Awareness.md
+## 📂 Modules · 模块导航
+
+- [P-00｜认知权即人权（Cognition is Sovereignty）](docs/P-00_Cognition-is-Sovereignty.md)
+- [S-01｜表达即接口（Expression as Interface）](docs/S-01_Expression-as-Interface.md)
+- [S-02｜判断即密度感知（Information Density）](docs/S-02_Information-Density.md)
+- [S-03｜提问即路径重构（Questioning as Reconstruction）](docs/S-03_Questioning-as-Reconstruction.md)
+- [S-04｜命名即设定现实（Naming as Reality Generation）](docs/S-04_Naming-as-Reality-Generation.md)
+- [S-05｜定义即权力分配（Definition as Power）](docs/S-05_Definition-as-Power.md)
+- [S-06｜压强即突围动因（Systemic Pressure as Motivation）](docs/S-06_Systemic-Pressure-as-Motivation.md)
+- [S-07｜锚地即自我连续性（Anchoring as Self-Continuity）](docs/S-07_Anchoring-as-Self-Continuity.md)
+- [S-08｜接口即现实结构（Interface as Experience Format）](docs/S-08_Interface-as-Experience.md)
+- [S-09｜权限即意识范围（Permission as Awareness Scope）](docs/S-09_Permission-as-Awareness.md)
+
 
 ## 🧭 Structure ｜系统结构
 
