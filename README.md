@@ -14,6 +14,17 @@ It is not a book. It is not a belief system. It is an interface map for rebuildi
 > ❗️这不是终稿，而是一个持续演进的操作系统起点。
 
 ---
+docs/
+├── P-00_Cognition-is-Sovereignty.md
+├── S-01_Expression-as-Interface.md
+├── S-02_Information-Density.md
+├── S-03_Questioning-as-Reconstruction.md
+├── S-04_Naming-as-Reality-Generation.md
+├── S-05_Definition-as-Power.md
+├── S-06_Systemic-Pressure-as-Motivation.md
+├── S-07_Anchoring-as-Self-Continuity.md
+├── S-08_Interface-as-Experience.md
+├── S-09_Permission-as-Awareness.md
 
 ## 🧭 Structure ｜系统结构
 
