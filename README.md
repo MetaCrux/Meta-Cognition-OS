@@ -84,5 +84,11 @@ This repository is licensed under:
 
 This is just the beginning.  
 To those who recognize it — welcome.
+## 📮 Contact
+
+For collaboration, feedback, or inquiry regarding this system:
+
+📧 Email: MetaCrux00@protonmail.com
+
 
 ---
