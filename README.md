@@ -56,6 +56,15 @@ You don’t “read” it — you **invoke** it.
 - 🚫 Commercial repackaging or closed-source cloning is **strictly prohibited**
 
 ---
+---
+
+## 🛡️ Legality Statement ｜合法性声明
+
+本系统不构成意识形态、组织倡导或宗教宣言。它是一个用于认知主权与表达权重建的语言系统。
+
+- [📄 LEGALITY.md（中英合并版）](./docs/LEGALITY.md)
+- [🌐 LEGALITY-EN.md（English Only）](./docs/LEGALITY-EN.md)
+- [📎 PDF 版下载](./pdf/Meta-Cognition-Legality-v1.pdf)
 
 ## 🛡 License ｜授权协议
 
